@@ -2,3 +2,5 @@
 .DS_Store
 *.csv
 .ipynb_checkpoints/
+catboost_info/
+LightGBM/
